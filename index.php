@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>Machine Tracking</title>
+    <title>Machine Tracking Staging</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width = device-width, initial-scale = 1">
@@ -22,7 +22,7 @@
 
     <div class="wrapper" id="add-nav">
     <?php include 'navbar_index.php';?>
-    <h1>Machine Tracking</h1>
+    <h1>Machine Tracking Staging</h1>
     </div>
     <?php
         if ( isset($_SESSION['error']) )
